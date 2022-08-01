@@ -1,27 +1,25 @@
 div.jumbotron.Carousel-Services {
   color: #fff;
   text-align: center;
-  background-size: cover;
-  background-position: center;
 }
 
 div.jumbotron.Services-Index {
-  background-image: url('../../assets/img/Index/Index-Header.jpg');
+  background: url("../../assets/img/Index/Index-Header-.jpg") center / cover no-repeat fixed;
 }
 
 div.jumbotron.Services-Hosting {
-  background-image: url('../../assets/img/Index/Services-Hosting.jpg');
+  background: url('../../assets/img/Index/Services-Hosting.jpg') center/ cover no-repeat fixed;
 }
 
 div.jumbotron.Services-Content {
-  background-image: url('../../assets/img/Index/Services-Content.jpg');
+  background: url('../../assets/img/Index/Services-Content.jpg') center/ cover no-repeat fixed;
 }
 
 div.jumbotron.Services-Development {
-  background-image: url('../../assets/img/Index/Services-Development.jpg');
+  background: url('../../assets/img/Index/Services-Development-2.jpg') center/ cover no-repeat fixed;
 }
 
 div.jumbotron.Services-Support {
-  background-image: url('../../assets/img/Index/Services-Support.jpg');
+  background: url('../../assets/img/Index/Services-Support.jpg') center/ cover no-repeat fixed;
 }
 
